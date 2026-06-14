@@ -1,6 +1,6 @@
 FROM --platform=$TARGETOS/$TARGETARCH node:21-bullseye-slim
 
-LABEL       author="Jesper Richert" maintainer="dm@xyzjesper.dev"
+LABEL       author="Jesper Richert" maintainer="hey@jespersen.zip"
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \

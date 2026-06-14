@@ -1,4 +1,4 @@
-FROM --platform=$TARGETOS/$TARGETARCH oven/bun:1.2.19-debian
+FROM --platform=$TARGETOS/$TARGETARCH oven/bun:1.3.14-debian
 
 LABEL       author="Jesper Richert" maintainer="hey@jespersen.zip"
 

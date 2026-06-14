@@ -1,6 +1,6 @@
 FROM        --platform=$TARGETOS/$TARGETARCH eclipse-temurin:16-jdk-focal
 
-LABEL   	author="Jesper Richert" maintainer="dm@xyzjesper.dev"
+LABEL   	author="Jesper Richert" maintainer="hey@jespersen.zip"
 
 RUN 		apt update -y \
 			&& apt -y upgrade
