@@ -1,6 +1,6 @@
 FROM        --platform=$TARGETOS/$TARGETARCH debian:latest
 
-LABEL       author="Jesper Richert" maintainer="contact@tnsstudio.net"
+LABEL       author="Jesper Richert" maintainer="hey@jespersen.zip"
 
 ENV         DEBIAN_FRONTEND noninteractive
 
